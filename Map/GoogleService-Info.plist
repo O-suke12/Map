@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>935342298361-aeoh0iskqq8f6l036miggchjr09sp32i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.935342298361-aeoh0iskqq8f6l036miggchjr09sp32i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAlrYuQE_1f9o0peGKVxmbnBeNvs66Ioqk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>935342298361</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.osuke.Map</string>
+	<key>PROJECT_ID</key>
+	<string>acee-ba5ea</string>
+	<key>STORAGE_BUCKET</key>
+	<string>acee-ba5ea.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:935342298361:ios:d3c9b77bb9ac6c98</string>
+	<key>DATABASE_URL</key>
+	<string>https://acee-ba5ea.firebaseio.com</string>
+</dict>
+</plist>
